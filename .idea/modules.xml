@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GiaoThuongVietHan/.idea/GiaoThuongVietHan.iml" filepath="$PROJECT_DIR$/../GiaoThuongVietHan/.idea/GiaoThuongVietHan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../evol/.idea/evol.iml" filepath="$PROJECT_DIR$/../evol/.idea/evol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qlmt.iml" filepath="$PROJECT_DIR$/.idea/qlmt.iml" />
+      <module fileurl="file://D:/themeGiaoThuongVietHan/.idea/themeGiaoThuongVietHan.iml" filepath="D:/themeGiaoThuongVietHan/.idea/themeGiaoThuongVietHan.iml" />
+    </modules>
+  </component>
+</project>
