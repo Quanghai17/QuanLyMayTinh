@@ -52,7 +52,7 @@
 					<div class="features_items clearfix"><!--features_items-->
 						
 							<h2 class="title text-center"><?php echo $key; ?></h2>
-							<?php foreach ($products as $product) : ?>
+							<?php foreach ($products as $product-detail) : ?>
 							<div class="col-sm-4">
 								<div class="product-image-wrapper">
 									<div class="single-products">
